@@ -23,6 +23,7 @@
 - finish the data transfer that's on going http://superuser.com/questions/324756/how-can-i-compress-a-large-file-into-smaller-parts
 - finish setting up arch linux 
 - read naked warrior
+- read Learn Vimscript the Hard Way
 
 = Meditum term = 
 - Make over
