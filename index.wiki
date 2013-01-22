@@ -1,0 +1,50 @@
+= Matt's Vim Wiki Index =
+
+[[waylaid]]
+[[misc]]
+[[spells]]
+[[writing]]
+[[life]]
+[[magic]]
+[[physics]]
+[[math]]
+[[books]]
+[[coding]]
+[[meditation]]
+[[gaming]]
+[[2013]]
+[[vim]]
+[[projects]]
+[[wisdom]]
+
+== Todo ==
+
+= Short term =
+- finish the data transfer that's on going http://superuser.com/questions/324756/how-can-i-compress-a-large-file-into-smaller-parts
+- finish setting up arch linux 
+- read naked warrior
+- split up into three wikis: sailthru wiki, personal wiki, website wiki
+
+= Meditum term = 
+- Make over
+- Get contact lenses
+- Get dental work done
+- Visit doctor
+- Parkour class on Sunday
+- goto cosm sometime
+- learn http://users.notam02.no/~kjetism/radium/
+
+= Long term = 
+- go to law school
+
+[[movies to see]]
+[[books to read]]
+
+= Useful Shortcuts =
+
+\ww             go to this index
+\wi             go to diary index
+\w\w            go to today's diary entry
+\w\t            go to today's diary entry in new tab
+\wr             rename the current page
+:h vimwiki      view the manual for vim wiki

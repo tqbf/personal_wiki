@@ -1,0 +1,26 @@
+Project idea for an iPad app: make an infinite pannable infinite zoomable sheet of paper.
+
+
+two operations: enclose, wrap the whole existing thing in ()
+
+== php ==
+http://nikic.github.com/
+
+== Java ==
+
+http://code.google.com/p/memory-measurer/wiki/ElementCostInDataStructures
+
+== C ==
+
+http://wordaligned.org/articles/two-star-programming
+
+[[Tao Te Jing]]
+
+== git ==
+
+= loading submodules =
+git submodule init
+git submodule update
+
+= deleting a branch locally and remotely =
+git push origin --delete <branchName>

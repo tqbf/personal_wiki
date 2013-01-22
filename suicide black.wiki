@@ -1,0 +1,23 @@
+// Lands (18)
+13 Snow-Covered Swamp
+4 Crystal Vein
+1 Strip Mine
+
+// Creatures (20)
+4 Carnophage
+4 Sarcomancy
+4 Dauthi Slayer
+4 Dauthi Horror
+4 Hypnotic Specter
+// Spells (22)
+4 Dark Ritual
+4 Duress
+4 Demonic Consultation
+3 Contagion
+3 Unmask
+3 Hatred
+1 Demonic Tutor
+
+http://www.mtgthesource.com/forums/showthread.php?24201-Hatred
+http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/23
+

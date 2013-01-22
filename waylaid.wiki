@@ -1,0 +1,6 @@
+Project for Maya
+
+Linode server
+root pass is m1ndful
+
+http://wordpress.org/extend/plugins/vanilla-forums/
