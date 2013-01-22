@@ -23,7 +23,6 @@
 - finish the data transfer that's on going http://superuser.com/questions/324756/how-can-i-compress-a-large-file-into-smaller-parts
 - finish setting up arch linux 
 - read naked warrior
-- split up into three wikis: sailthru wiki, personal wiki, website wiki
 
 = Meditum term = 
 - Make over
