@@ -16,6 +16,7 @@
 [[vim]]
 [[projects]]
 [[wisdom]]
+[[misc ideas]]
 
 == Todo ==
 
@@ -24,6 +25,7 @@
 - finish setting up arch linux 
 - read naked warrior
 - read Learn Vimscript the Hard Way
+- setup extra keys with xmodmap
 
 = Meditum term = 
 - Make over
