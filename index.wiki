@@ -21,11 +21,11 @@
 == Todo ==
 
 = Short term =
-- finish the data transfer that's on going http://superuser.com/questions/324756/how-can-i-compress-a-large-file-into-smaller-parts
 - finish setting up arch linux 
 - read naked warrior
 - read Learn Vimscript the Hard Way
 - setup extra keys with xmodmap
+- invest in Google on the 26th
 
 = Meditum term = 
 - Make over
