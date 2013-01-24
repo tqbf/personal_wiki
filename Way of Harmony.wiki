@@ -4,7 +4,7 @@ I am writing this book for my own benefit,
 to act as a reminder when I go astray,
 perhaps others may benefit from it as well.
 
-= Code of Harmony =
+=== Code of Harmony ===
 00. Minimize noise.
 
 01. Maximize signal.
@@ -13,7 +13,7 @@ perhaps others may benefit from it as well.
 
 11. Maximize harmony.
 
-= Marks of Reality =
+=== Marks of Reality ===
 1. No phenomena are permanent.
   Just wait, you'll see.
 
