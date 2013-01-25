@@ -12,3 +12,5 @@ Pragmatic Vim
 Pro Git
 
 http://www.sirlin.net/ptw/
+http://www.alfiekohn.org/articles.htm
+http://www.aaronsw.com/weblog/fullarchive
