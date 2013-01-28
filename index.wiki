@@ -1,4 +1,4 @@
-= Matt's Vim Wiki Index =
+= Mato's Vim Wiki Index =
 
 [[waylaid]]
 [[misc]]
