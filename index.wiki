@@ -23,20 +23,17 @@
 == Todo ==
 
 = Short term =
-- finish setting up arch linux 
-- read naked warrior
 - read Learn Vimscript the Hard Way
 - setup extra keys with xmodmap
-- invest in Google on the 26th
+- get sweatpants for taijutsu class
+- taijutsu class on Sunday
+- Emily and Matt's parties on Saturday
 
 = Meditum term = 
 - Make over
-- Get contact lenses
 - Get dental work done
 - Visit doctor
-- Parkour class on Sunday
 - goto cosm sometime
-- learn http://users.notam02.no/~kjetism/radium/
 
 = Long term = 
 - go to law school
