@@ -1,4 +1,4 @@
-= Mato's Vim Wiki Index =
+= Matt's Vim Wiki Index =
 
 [[waylaid]]
 [[misc]]
@@ -24,16 +24,13 @@
 
 = Short term =
 - read Learn Vimscript the Hard Way
-- setup extra keys with xmodmap
-- get sweatpants for taijutsu class
-- taijutsu class on Sunday
-- Emily and Matt's parties on Saturday
 
-= Meditum term = 
+= Medium term = 
 - Make over
 - Get dental work done
 - Visit doctor
 - goto cosm sometime
+- setup extra keys with xmodmap
 
 = Long term = 
 - go to law school
