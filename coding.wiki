@@ -5,6 +5,7 @@ two operations: enclose, wrap the whole existing thing in ()
 
 == php ==
 http://nikic.github.com/
+http://www.phpbench.com/
 
 == Java ==
 
