@@ -20,10 +20,20 @@
 [[ericksonian hypnosis]]
 [[text editing project]]
 
+Remote shell login to metta
+
+ssh on port 9793
+208.82.12.18
+
 == Todo ==
 
 = Short term =
 - read Learn Vimscript the Hard Way
+- [ ] get supplies for taijutsu
+    - [ ] bo
+    - [ ] bokan
+    - [ ] gi
+- setup ssh tunnel to get into office
 
 = Medium term = 
 - Make over
