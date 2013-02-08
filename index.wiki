@@ -23,7 +23,7 @@
 == Todo ==
 
 = Short term =
-- read Learn Vimscript the Hard Way
+- create some spells
 
 = Medium term = 
 - Make over
