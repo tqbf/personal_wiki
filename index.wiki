@@ -22,6 +22,10 @@
 
 Remote shell login to metta
 
+randall's IRC server
+
+ irc.ranman.org:8080 for your server, user: zencephalon, password: !amAt0talboss
+
 ssh on port 9793
 208.82.12.18
 
