@@ -33,12 +33,6 @@ ssh on port 9793
 
 = Short term =
 - create some spells
-- read Learn Vimscript the Hard Way
-- [ ] get supplies for taijutsu
-    - [ ] bo
-    - [ ] bokan
-    - [ ] gi
-- setup ssh tunnel to get into office
 
 = Medium term = 
 - Make over
@@ -46,6 +40,11 @@ ssh on port 9793
 - Visit doctor
 - goto cosm sometime
 - setup extra keys with xmodmap
+- read Learn Vimscript the Hard Way
+- setup ssh tunnel to get into office
+- spec of new markup language
+- personal website
+- remake impishidea
 
 = Long term = 
 - go to law school
