@@ -30,6 +30,13 @@ ssh on port 9793
 208.82.12.18
 
 == Todo ==
+- [ ] buy SD card (bestbuy)
+- [ ] buy dark wash jeans (uniqlo)
+- [ ] buy onit suka tigers (variety of places)
+- [ ] buy flanel shirts (uniqlo)
+- [ ] buy v neck cashmere (uniqlo)
+- [ ] buy gi
+- [ ] buy groceries
 
 = Short term =
 - create some spells
