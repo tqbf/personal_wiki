@@ -1,0 +1,4 @@
+
+
+TODO
+* Setup nginx to serve static files on Linode server
