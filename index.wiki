@@ -37,6 +37,7 @@ ssh on port 9793
 - [ ] buy v neck cashmere (uniqlo)
 - [ ] buy gi
 - [ ] buy groceries
+- [ ] pick up mail from post office
 
 = Short term =
 - create some spells
