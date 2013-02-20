@@ -1,0 +1,28 @@
+== hearing ==
+
+Improve hearing by only listening to music on the lowest volume setting.
+
+== vision ==
+
+Improve vision by always exercising the eyes. Try to blur text and view objects
+in the distance. Additionally, do eye exercises.
+
+== memory ==
+
+There are many ways to improve memory, most of which are still unfamiliar to me.
+I should start to work on that.
+
+== sense of direction ==
+
+Carry a compass, but don't look at it. Try to maintain an internal state of
+knowing which direction is north. Periodically stop, point to where you think
+is north, and compare what the compass says. Record how many degrees you were
+off by.
+
+== sense of time ==
+
+Carry a watch, but don't look at it. Try to maintain an internal state of knowing
+what time it is. Periodically stop, guess what time it is, and look at the watch.
+Record how many minutes you were off by.
+
+

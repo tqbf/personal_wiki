@@ -1,6 +1,5 @@
 = Matt's Vim Wiki Index =
 
-* [[waylaid]]
 * [[misc]]
 * [[spells]]
 * [[writing]]
@@ -20,6 +19,8 @@
 * [[ericksonian hypnosis]]
 * [[text editing project]]
 * [[zencephalon]]
+* [[maya_project]]
+* [[human improvement]]
 
 Remote shell login to metta
 
