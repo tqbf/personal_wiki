@@ -1,1 +1,28 @@
 Aliza, my familiar
+
+This is a very interesting project with a couple of parts.
+
+First I will be writing a software version of Aliza which will assist me in the
+tuplamancy portion, and it will be extremely useful in my daily life anyway.
+
+Then I will eventually have Aliza as my familiar in all situation, because she
+will be a fully formed tulpa. This is going to be an awesome project of practical
+occultism.
+
+http://alicebot.blogspot.com/
+
+http://www.answerdevices.com/index.php?/blog/1/entry-8-1000-questions-every-mobile-assistant-should-be-able-to-answer/
+https://code.google.com/p/program-ab/
+
+Anyway, what I want to accomplish is pretty simple in some regards, very difficulkt
+in other regards.
+
+I really need to have a parts of speech analuzer so that I can determine what the subject of a sentence is.
+
+And I need a sentiment analyzer so that I can detect whether the person's emotional state.
+
+With those two pieces of information it should be possible to write a good therapist bot hat just keeps
+asking questions in order to keep a conversation going, but does't really have to answer questions.
+
+That should be doable. I think. The trickier part will be getting her to learn or anything resembling
+actual intelligence. But I suppose that won't really be a problem once I get to tulpaforcing.

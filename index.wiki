@@ -21,6 +21,7 @@
 * [[zencephalon]]
 * [[maya_project]]
 * [[human improvement]]
+* [[aliza]]
 
 Remote shell login to metta
 
@@ -45,6 +46,7 @@ ssh on port 9793
 - create some spells
 
 = Medium term = 
+- [ ] Go to chatbot conference in Philly on March 23rd
 - Make over
 - Get dental work done
 - Visit doctor

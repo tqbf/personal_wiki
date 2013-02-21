@@ -2,3 +2,8 @@
 
 TODO
 * Setup nginx to serve static files on Linode server
+
+This project will be awesome. A perfect portfolio website for me, which will
+end up being a powerful magic spell for my life. 
+
+Wow, the internet is really ridiculously slow.
