@@ -22,6 +22,8 @@
 * [[maya_project]]
 * [[human improvement]]
 * [[aliza]]
+* [[ninja style]]
+* [[pandora]]
 
 Remote shell login to metta
 
