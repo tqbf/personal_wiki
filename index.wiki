@@ -28,11 +28,10 @@
 == Todo ==
 * [ ] write comments on princeton resumes
 * [ ] work on website
-* [ ] respond to nicole about logo work
+* [ ] Make changes to UI using our new jobmanager api
 
 
 == shopping list ==
-- [ ] buy SD card (bestbuy)
 - [ ] buy dark wash jeans (uniqlo)
 - [ ] buy onit suka tigers (variety of places)
 - [ ] buy flanel shirts (uniqlo)
@@ -40,6 +39,7 @@
 - [ ] buy gi
 - [ ] buy groceries
 - [ ] pick up mail from post office
+- [ ] send check in mail for mom's hand surgery
 
 = Short term =
 - create some spells
