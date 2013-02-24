@@ -25,16 +25,13 @@
 * [[ninja style]]
 * [[pandora]]
 
-Remote shell login to metta
-
-randall's IRC server
-
- irc.ranman.org:8080 for your server, user: zencephalon, password: !amAt0talboss
-
-ssh on port 9793
-208.82.12.18
-
 == Todo ==
+* [ ] write comments on princeton resumes
+* [ ] work on website
+* [ ] respond to nicole about logo work
+
+
+== shopping list ==
 - [ ] buy SD card (bestbuy)
 - [ ] buy dark wash jeans (uniqlo)
 - [ ] buy onit suka tigers (variety of places)
