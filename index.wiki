@@ -25,12 +25,6 @@
 * [[ninja style]]
 * [[pandora]]
 
-== Todo ==
-* [ ] write comments on princeton resumes
-* [ ] work on website
-* [ ] Make changes to UI using our new jobmanager api
-
-
 == shopping list ==
 - [ ] buy dark wash jeans (uniqlo)
 - [ ] buy onit suka tigers (variety of places)
