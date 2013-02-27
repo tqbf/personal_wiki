@@ -1,4 +1,4 @@
-Aliza, my familiar
+[[Aliza,]] my familiar
 
 This is a very interesting project with a couple of parts.
 
@@ -28,3 +28,5 @@ That should be doable. I think. The trickier part will be getting her to learn o
 actual intelligence. But I suppose that won't really be a problem once I get to tulpaforcing.
 
 [[aliza pics]]
+
+[[aliza dialogue]]

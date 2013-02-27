@@ -1,0 +1,33 @@
+Dear Viki,
+
+Hm, today started out nice enough. It was cool to get into the office early and
+talk to Vanessa, Bill, and Benjamin. I have to say though, this UI refactoring
+is going to be a huge pain in the ass. The code was not at all designed with
+what we are trying to do in mind. Like, not even a little bit. This sucks nuts.
+
+I don't know if I can even do it without creating an internal job api that actually
+has all the capabilties we need.
+
+Like, we don't have any of the capabilities we really need right now. It's kind
+of a buzz kill. I was hoping this wouldn't take a long time, but I think that it
+might. But then again, if I set my mind to it and work persistently I can
+probably get it done.
+
+I need to get my sandbox running here so that I can test that the changes I'm
+making aren't breaking the whole damn thing. That is a very crucial ingredient 
+here.
+
+Yesterday was a pretty great day though. I'm glad to hear that Edgar is doing
+better.
+
+I guess I'm just a little upset about this whole ImpishIdea thing. I should get
+over it. It's out of my hands now, and the best I can do is express the sentiment
+I want to get across and hope that they get the message. The hard thing is always
+figuring out how to influence people. People are some of the most interesting
+things in the universe. If I could understand how they worked I would really 
+have power. The dao de jing alludes to this. The way to really learn about other
+people is to learn how I work.
+
+Ah, holy shit, I did not get enough sleep last night, not nearly enough. Damn.
+
+Oh well, I will make sure to get more done now. 
