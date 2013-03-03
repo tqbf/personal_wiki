@@ -1,4 +1,4 @@
-Stuff by David Foster Wallace
+[[Stuff]] by David Foster Wallace
 Lots of stuff from here http://english.grimoar.cz/?Loc=idx&Lng=2
 The White Brother
 The Comte de Gabalis
@@ -23,3 +23,5 @@ Benjamin Franklin
 Think and Grow Rich
 
 http://nlpwp.org/book/
+
+http://www.squeakland.org/resources/books/readingList.jsp
