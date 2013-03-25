@@ -37,15 +37,8 @@ Priscilla needs juggling balls
 
 [[searider critique]]
 
-== shopping list ==
-- [ ] buy dark wash jeans (uniqlo)
-- [ ] buy onit suka tigers (variety of places)
-- [ ] buy flanel shirts (uniqlo)
-- [ ] buy v neck cashmere (uniqlo)
-- [ ] buy gi
-- [ ] buy groceries
-- [ ] pick up mail from post office
-- [ ] send check in mail for mom's hand surgery
+== TODO ==
+- write Dave check for $86
 
 = Short term =
 - create some spells
