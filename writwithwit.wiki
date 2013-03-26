@@ -1,0 +1,8 @@
+From the beginning this service is going to be built ON TOP of github.
+
+In fact, we could even exploit github pages to do this.
+
+We will certainly be using the github API. 
+
+Software as a Service model, but opensource? Basically just count on people's
+good will to help me maintain my living.
