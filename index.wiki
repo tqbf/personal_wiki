@@ -28,11 +28,9 @@
 * [[sailthru org chart]]
 * [[spirit animals]]
 * [[writwithwit]]
-
-Priscilla needs juggling balls
+* [[email drafts notes]]
 
 == daily tasks == 
-- coursera neural networks course
 - practice taijutsu
 - exercise
 - meditate
@@ -40,7 +38,6 @@ Priscilla needs juggling balls
 [[searider critique]]
 
 == TODO ==
-- write Dave check for $86
 
 = Short term =
 - create some spells

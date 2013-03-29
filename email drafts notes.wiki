@@ -1,0 +1,674 @@
+Chronological from bottom up.
+
+= sprint password =
+
+m1ndfulLove
+
+= no subject = 
+
+222660837
+
+= no subject =
+
+612 669 5958
+
+= aditya forum project mongo info =
+
+export MONGODB_DATABASE=app8393539
+export MONGODB_URL=alex.mongohq.com:10052/app8393539
+export MONGODB_USERNAME=admin
+export MONGODB_PASSWORD=restrainspeech
+
+= hackNY essay draft =
+
+hackNY's last speaker event featured the partners of Union Square Ventures: Albert Wenger, Andy Weissman, Brad Burnham, Fred Wilson, and John Buttrick. 
+
+
+Infrastructure layer of internet just finished, so they looked to invest in the applications. (2004)
+They want services that CHANGE the market instead of only making incremental improvements.
+Native services that are doing something that can ONLY be accomplished because of the new platform, not simply moving something to the new platform.
+Investment thesis: disruptive services using networks
+Invested in Twitter before people were convinced by it.
+Services with networks are more defensible.
+Double-edged nature of network effects. Can cause the network to break down even faster.
+Marketplaces like Etsy are especially cool.
+Networks of course are no guarantee as MySpace demonstrates.
+The new networked and decentralized services are more efficient, but are being fought with legislation by the existing players.
+Unbundling. (Lending Club, Funding Circle, AirBnB, Uber)
+The dynamic between unbundling and aggregation.
+Attempting to apply the network benefits to their own investment portfolio.
+Laisez faire approach to investment, not a control firm.
+Potential conflicts of interest, and companies pivoting into each other.
+
+Mobile services have huge disruptive potential.
+
+Education and Finance are two major sectors that could use disruption.
+
+Admiration for open source business models, ala 10gen.
+It's not necessary to make money from every user in the system.
+
+Invest in teams with a vision.
+
+My own thoughts: great way to destroy the too big to fail banks, just replace
+them with the network alternatives. Decentralized networked government to play
+a role in the future. A "government" is just a social contract, we are parts of
+tons of "governments", and we can begin to embrace the concept on a different
+level.
+
+I'm excited by Dwolla's potential to change the way we use money.
+
+Google unbundled the portal, whereas yahoo was stuck in the past.
+
+Silicon Valley is going to beccome less important as San Francisco becomes more
+valuable. An advantage of New York is diversity: there are more different inputs
+for startups here.
+
+Saying goodbye doesn't get easier.
+
+= RMagick =
+
+I haven't actually tested this because I don't want to install rmagick, but this should work. Let me know if anything comes up.
+
+require 'RMagick'
+img = Magick::Draw.new
+# open the image we want to play with
+dude = Magick::Image::read("thedude.jpg").first
+cols = dude.columns
+rows = dude.rows
+# define the clipping path here
+img.define_clip_path('circle_cutout') do
+  # calculate the circle fitting in rows and cols...
+  # any drawing operations you do inside of the clip path block draw onto the mask
+  img.circle(centerx, centery, borderx, bordery)
+end
+
+img.push
+img.clip_path('circle_cutout')
+img.composite(0, 0, cols, rows)
+img.pop
+
+canvas = Magick::Image.new(cols, rows)
+img.draw(canvas)
+
+= Music I love from WOXY =
+George Shearing - To Antonio Carlos Jobim
+
+Tosca, Karri O, Helios, the Flashbulb, Trentmoller, Royksopp, 1969, Alpha, Tone Twilight Zone by Cornelius
+, Groove is in the Heart by Deee-Lite, Akufen (Even White Horizons), Simon Pyke 
+Maps - It Will Find You
+# Robbers On High Street - The Fatalist (lounge)
+Metric - Poster Of A Girl 
+I've Got You Memorized by Ivy
+Violens - Already Over
+The Appleseed Cast - A Bright Light
+# Mt. St. Helens Vietnam Band - Masquerade
+The Velvet Underground - I'm Waiting For The M
+Menomena - Wet And Rusting  
+Longwave - Tidal Wave
+School Of Seven Bells - Iamundernodisguise
+Nouvelle Vague - Just Can't Get Enough  
+The Distant Seconds - We're Unstoppable
+Au Revoir Simone - A Violent Yet Flammable..
+A Sunny Day In Glasgow - No. 6 Von Karman Street
+Pains Of Being Pure At Heart - Come Saturday
+ And You Will Know Us By The... - Far Pavillions
+
+ Stellastarr* - Freak Out
+
+ Yacht - See A Penny (Pick It Up)
+
+= no subject =
+/html[@class=' js multiplebgs borderradius boxshadow opacity cssgradients applicationcache']/body/div[@id='main']/div[@class='widget-row'][5]/div[@class='wide']/table[@class='standard']/tbody/tr[@class='odd'][1]/td[4]/a/img[@class='icon']/@src
+
+= norwegian essay about family =
+Foreldrene mine bor i Minnetonka. Min far er en mattelærer og forfekter Hjemmeundervisning. Han skal være 53 år gammel neste lørdag. Min mor er en pianolærer. Hun er 49 år gammel. Mine foreldre møttes i Taiwan tretti år siden. De fleste av min mors familie bor i Taiwan. Noen av min mors familie bor i Amerika. Alle av min fars familie bor i Amerika. Min mor var den ungste av seks barn. Hver av min mors søsken har mange barn, så jeg har mange taiwanske søskenbarn. Jeg har ikke sett de fleste av mine taiwanske fettere i over ti år nå. Men jeg fortsatt skrive til Debbie som var min kusine og beste venn når jeg bodde i Taiwan. Debbie er 21 og går til universitetet i Taiwan. Min far er den eldste av fire barn. Bare hans søster Barbara har barn. Hun har tre døtre, og to av dem er tvillinger. Barbaras Familien bor i Minnesota, så vi ser dem for noen helligdager. Jeg er veldig nær til mine søsken. Jeg lærte dem matte og lesing. Mark er min eldste bror. Han er femten og er en meget god fotballspiller, men han foretrekker å spille videospillene. Han er også en begavet kreativ forfatter. Luke er 12 år gammel. Han elsker dyr og er veldig interessert i biologi. Han for tiden å lære fysikk og kjemi, så han vil ha et grunnlag for molekylær biologi. Priscilla er ni år gammel. Hun er veldig god på alle sine fag og har ikke plukket en favoritt ennå. Min mor lærte oss alle matlaging, men Priscilla virkelig nyter det så hun lære alle de kompliserte oppskrifter. Hun liker egentlig å bake paier.
+
+= Muntlig prøve # 2 =
+Hva heter du?
+Hvordan går det med deg i dag?
+Fortell om deg selv og familien din. (6+ sentences)
+Liker du å handle? Hva liker du å kjøpe ?
+Hvorfor liker du/ liker du ikke loppemerkeder?
+Liker du å være inne eller ute ? Hvorfor ?
+Vil du høre på musikk eller se på TV i kveld?
+Liker du å se på fotballkamper ? Hvorfor / hvorfor ikke ?
+Hvilke konserter liker du?
+Hvor bor du?
+Hvorfor liker du å bo der? (fordeler og ulemper) (6+ sentences)
+Hvordan bor du?
+Beskriv: huset ditt/ leiligheten din/ hybelen din. (6+ sentences)
+Er et mye kriminalitet i Minneapolis / St. Paul ?
+Er det dyrt å bo i Minneapolis / St. Paul ?
+Tenker du ofte på helsa?
+Er du i god form? / Får du nok mosjon? / Trener / jogger du ofte ?
+Røyker du ?
+Hvordan føler du deg?
+Hva gjorde du i går? (6+ sentences)
+Hva er klokka nå?
+Kan du beskrive din daglige rutine? (6-8 verb)
+Hva liker du å gjøre i fritida? (6 aktiviteter)
+Hva slags husarbeid gjør du?
+Hvilke kurs tar du dette semesteret?
+
+= no subject =
+
+http://sadhanaschoolofarts.com/PDF/EnlightenmentEngineering.pdf 
+
+= norwegian essay =
+Jeg var hjemme i ferien. Ofte drar jeg til Chicago i ferien, men ikke denne gangen. I år min venn i Chicago var opptatt, så jeg slappet av hjemme. Jeg gjorde mange slags aktiviteter for å slappe av. Jeg jogget gjennom nablolaget mitt. Jeg gikk ned Johnson Street, og besøkte butikkene der.
+
+I vinterferien var romkameratene mine borte. Derfor var det stille i huset. Det var perfekt for mange aktiviteter som krever konsentrasjon. Jeg mediterte mange timer hver dag. Å meditere så mye ble dypt avslappende. Jeg lyttet til mange forskjellige slags musikk, inkludert norsk musikk. Jeg likte Röyksopp, Annie, og Erlend Øye. Jeg gikk også til live konserter. For eksempel, så jeg Wookiefoot på nyttårsaften.
+
+Fordi det var stille leste jeg mange bøker. Jeg leste om matematikk og fysikk primært. Jeg har også lyttet til radio på nrk.no. Jeg så på Republican primære debatter. De var interessant, men også merkelig.
+
+Jeg dro til mine foreldres hus. Jeg spilte piano med mora mi. Min mor spilte musikk av Debussy. Min søster har kokt mange nye mat som jeg spiste. Hennes mat er svært smakfull. Jeg spilte sjakk med mine brødre. Jeg vinner fleste spill, men de blir mye bedre i sjakk. Jeg traff gamle venner og snakket med dem.
+
+Jeg gjorde husarbeid også, selvfølgelig. Romkameratene mine forlot huset et rot. Jeg tok ut søpla. Jeg vasket retter. Jeg støvsuget gulvene. Fordi huset var så rotete ryddet jeg i flere dager. Men det var ikke så ille som det virker. Jeg kunne meditere under rengjøringen. Så rengjøring ble faktisk veldig avslappende også.
+
+Jeg ønsker at ferien var lenger. Det var fortsatt mye jeg ønsket å gjøre.
+
+= no subject =
+http://www.naturalism.org/death.htm
+
+= hackmaster character =
+Melisande
+
+str 7/80
+dex 13/56
+con 9/67
+int 17/51
+wis 14/25
+cha 16/79
+com 16
+hon 20
+
+ac 9
+
+18 years old
+left handed
+67"
+133 lbs
+
+upper middle class
+birth was a result of adulterous affair (-3 honor)
+parent living
+ill equipped parent
+great-honor (+5 honor)
+chronic liar (+6)
+psychotic aversion to monster (+11)
+loud boor (+7)
+
+charlatan
+-- run confidence games
+-- cast magic-user cantrips
+-- dodge or deflect missiles
+56 bp
+
+95 gp
+
+con man (11)
+-- fast-talking 21, liar (skilled) 39, poker face 20, ulterior motive 19
+-- charm
+-- detect fakery
+-- swindling
+expert cheater 
+looting, basic 20
+running 13
+seduction, art of 20
+slip away into the shadows 14
+tightrope walking 16
+tumbling 17
+joke telling 20
+diplomacy 23
+graceful entrance/exit 19
+social ettiquette 18
+gleen information 23
+snappy comeback 1
+secret persona 18
+oration 17
+riding, land-based 15
+reading, writing 20
+interpret/perform mime 29
+poetry, writing, and comprehension 17
+singing 18
+artistic ability 15
+wuss slap 10
+spellcraft 18
+observation 25
+rope use 15
+grooming 17
+
+proficency dagger
+
+talents
+acute alertness 5
+opportunist 5           
+
+56
+
+dagger
+thieves kit
+perfume
+salimic acid
+sharpened coin
+grappling hook
+crowbar
+backpack
+garments, fine, silk
+cloak
+
+= no subject =
+http://www.reddit.com/r/malefashionadvice/comments/iuhx3/a_streetwear_introduction/
+
+= notes from medtronic 2 =
+/*
+ * Well, so far I've been sort of upset with the state of the code currently. At least they found my computer, so that's nice. That way when I go home I can go and play some nice relaxing dungeon crawl.
+ * Man, the level of incompetence in the previous programmers is simply astounding. It's like they have no concept of the ideas of code reuse, and are simply idiots who didn't bother reading about
+ * what is possible, and instead just jumped straight in without any preparation. Now, the most difficult task for me is going to be figuring out how I can work on the new interface without blowing everything
+ * up. It is going to be tricky I imagine. Okay... this is starting to get annoying. This is a really big project, so I'm going to have to break it down into
+ * parts so that I can figure out what I need to do. This is the kind of task where I could get overwhelmed and not make any progress if I don't think about
+ * what it is that I have to do. I think that a pretty major problem is that I don't know the entire architecture of the existing program yet. There seem to
+ * be several layers of stateful interactions all going on at the same time, which is exactly the reason why imperative programming is a pain in the behind. It
+ * is difficult to isolate things, and in order to get the program running I think I have to have everything working? Maybe, maybe not. If it is at least 
+ * compartmentalized so that I can work on one form at a time I think I have a way forward. I'm not holding my breath though. I mean, my brain hurts a little
+ * just thinking about this... jk. I really just need to have all my tools at my disposal, like my pad, so that I can plan my thoughts out. I think I can handle
+ * this in little parts pretty easily. And then I could really make a critical contribution to this project, because, let's be honest, the current interface is
+ * a load of junk that I would not want to use as a doctor. Not to mention how weirdly shoddy the programming is, I mean, come on, who is doing this stuff? I 
+ * really hope that Paul wasn't the person who wrote a lot of the code. That had better have been this "Braun" company that we bought out. But Christ, Medtronic
+ * bought them out for how much money? And the product that they had wasn't even complete, it was incomplete and somewhat garbage? I mean, that's a bit strange.
+ * But I'm not a medtronic executive so I don't get a say in these things. But I do get to raise quality concerns, because that's something you are supposed to
+ * at medtronic. I wonder what the fastest I can type is, like could my typing keeep up with my thoughts? Could it even come close? Probably not, right? I don't
+ * know. I am guessing probbably not becausae my typing really isn't that fast right now. But it really could become faster if I were to deliberately practice at typing faster. Yes, I mean, it is possible for me to make significant gains at my typing speed.
+ *
+ * Hm, I'm thinking about a programming language again. I really liked that idea of just having a database of functions. I think his approach was sort of silly
+ * though, the way you can create unique names for all the methods is just to use hash of some essential properties it has.
+ * 
+ * Anyway, I was thinking, why not have methods get back a Parameters object that includes a good amount of information and that way things would be a lot cooler.
+ *
+ * You can either use the informal parameters that are more like a normal language, or you can just accept a Parameters object.
+ *
+ * func add = Parameter p ->
+ *   sum = 0
+ *   1:to p:size;each i ->
+ *     sum += p:get i
+ *   sum
+ *
+ * I'm this close to passing out due to boredom. I mean seriously, I am tired and hungry and I can't do much right now.
+ * Could I actually start writing a story here? Seems a little unlikely, but we could try. Let's see... I still need to flesh this out a bit right now, but
+ * basically the main character is someone who was put into cyrofreezing right before the zombie apocalypse, so he is unfamiliar with the new world around him.
+ * That gives us the excuse we need to have a character that asks a lot of questions. Well, got a lot to think about, so hopefully I can power through all of it.
+ * I wonder how Kevin's test went. If it went well that would be swell. 
+ *
+ * Man, this is a pretty clever plot device actually, because it allows all sorts of possibilities that were previously constraining. So, for one thing, we can
+ * set this as many years into the future as we want, because whatever we do the main character can still be young and still remember how things were in the old
+ * days. That will allow him better insight into the way things are currently, because he knows how technology from his time has been twisted using the terms
+ * of fantasy settings.
+ *
+ * So, who is this illusive main character? And I'm all alone now, so that's fun. Aha, now I can all keeping to myself in here. Time to get productive.
+ *
+ * Who is the main character? Should I start writing stories with stoic main characters? I think that could fit into this story, but not the other ones. 
+ * So this guy is a stoic, what else is he? I think he is very scientific minded, so he has an advantage in this world due to his superior understanding of how
+ * everything works. As a drawback though, all the mysticism is something he wants no part in, so he is unwilling to bill himself as a great magician. His
+ * goal is to educate people about how things really should be. Maybe that isn't his actual GOAL, per se, but it definitely is an instinct that drives his 
+ * actions. 
+ *
+ * We'll keep developing that character over time. I don't want to sit here thinking about him for too long though, because he certainly isn't the only
+ * character that will be in this story. Other characters are just as important. If I end up here much longer I'm going to have to change my time sheet to
+ * say 5.5 hours or maybe even 6 hours. This is sort of annoying, I hope that Kevin gets here soon. I should have established a definite time that we are 
+ * leaving. Well, I think that should be 6:00. Oh, is Kevin doing that research study today? That could very well explain why he isn't here right now. Also,
+ * having the screen so that only a few lines of the comments are displayed and a sizable amount of the code is displayed is another good idea for making
+ * everything look like I'm just programming. It's all about the little things, baby. But seriously, I need to do a lot of actual programming while I'm here, 
+ * because if I don't that's going to look really bad. I have to at least exit this place with a glowing recommendation, even if I don't want to stay here and
+ * work for the rest of my life. I know I definitely don't want to do that now, even if Medtronic's mission is noble and everything, they are still a large
+ * corporation like any other, and being here will still end up stiffling my creativity. The only true way to be free is to be self reliant, you know.
+ *
+ * Should we do good because it makes us happy? 
+ *
+ * No. There are countless situations where you must do good and it won't feel good. Only the strongest of people are able to do this. Imagine giving a homeless
+ * man $5 and having him say "fuck you" in response. This would cause a lot of people to regret giving the homeless man the money, and would probably prevent
+ * them from giving the homeless man any money in the future. That's allowing ourselves to be affected. A true stoic must do good even when he knows there will
+ * be no chance he will enjoy or benefit from it. If no good deed goes unpunished, then the true stoic awaits his punishment every time. 
+ *
+ * Neo-Stoicism
+ * Becoming an überman.
+ *
+*  Some principles:
+*  Nothing has meaning except that which you give it. The only things with intrinsic meaning are your thoughts.
+*  Your actions are meaningful to the extent that you freely choose them: your thought and your choice give your actions meaning.
+*  Actions you carry out under threat lack the fullness of normal meaning, because the coercion changes the action from something that reflects who you are
+*  to something that reflects what the situation is.
+*
+*  The Christian promise of Heaven or threat of Hell is a common way that people make their actions less meaningful. What seems better? Seeing someone you
+*  normally wouldn't help, and deciding freely that you do want to help them. OR, deciding that you do want to help them, because if you don't there will be a
+*  negative consequence as a result.
+*
+*  Think about this: a murderer (someone who chose to commit murder) isn't a good person if he acts in good ways while having a gun pointed to his head. And 
+*  most people agree that someone who acts wrongly under great duress from an evil captor doesn't become an evil person. The INTENT behind an action is vital.
+*  A good person does good for its own sake. A vain person does good for attention. A greedy person does good for the benefits that might result from a 
+*  reputation as a good person. Etc. 
+*
+*  To become a truly good person you must do good because you feel that doing good is the right choice. There's no reason for why you should be good, trying to
+*  justify good behavior by invoking anything else implies that we value whatever our justification is more than money. If we justified goodness with material
+*  benefits, then we are saying that material benefit is more important than goodness. If goodness didn't happen to also benefit you materially, you wouldn't be
+*  good. That's just sad.
+*
+*  Why should you act in a good manner? Just because. Goodness is unjustifiable.
+*
+*  !!!! GOODNESS IS UNJUSTIFIABLE
+*
+*  Free from Illusion: pick up an object and examine it closely. What comes to mind when you think of the object? Do some qualities, like 'valuable' or 'sentimental' come up? There is no such thing as a valuable object, only objects we choose to value. Gold has no value to the universe. It's just another metal.
+*  Humans choose to give gold value. Become unmaterialistic by realizing that the only value that exists is that which you create. Then you can be free from
+*  the shackles of money.
+*
+*  Unafraid of Death: Death is the cessation of sensation. Remember now, that our struggle as stoics is to free ourselves from interpreting 
+*
+ * An Überman is:
+ * 1. Free : there is no imperative that a stoic live honorably; instead, it is the fact that he freely chooses sacrifice that gives his actions meaning.
+ *
+ */                
+
+= notes from medtronic 1 = 
+/*!!!
+ * Left my bag at the moundsview location, so I need to make sure and call lost and found for it.
+ * Dang yo, this computer is working really slowly. I think that C# form designer thing is really resource heavy for a lot of junk.
+ * I wonder what the procedure here is for upgrading computers. If I sprung for a new computer personally, would I be able to use it at work?
+ * Will they allow me to use Linux at work? Obviously outlook wouldn't be working on that.
+ *
+ * I'm going to hide a little code in the notes directory so that I can easily switch to if someone is coming, that way I have some cover. It'll just look like
+ * I was editing code in Vim I hope. I should add some documentation looking things so that's what it looks like. Actually, I could just make my notes template
+ * the code with a nice big blank space for documentation that I will fill in. Good idea.
+ *
+ * Okay, so anyway... heh, lost my track of thought there, but this is pretty incongruous looking. I mean, you would have to both be looking closely to see my
+ * little font. So I think this is a pretty fool proof plan. Of course, I can be a pretty exceptional fool, like if I were to spend an entire day at work and get
+ * no work at all done. But the thing is, I'm not going to do that.
+ *
+ * So yeah, I installed git today, which actually took a decent amount of time, and setup a repository for the whole project. I'm doing this because I am going
+ * to be making a LOT of changes to the code, and I don't want to get stuck in any situations where I don't know which version of a file is which. If I ever got
+ * to one of those nasty points where a change I made broke the whole system I want complete assurance that I can get back to the point I was at before and not
+ * be stuck at the bug. I've had some disasters with having to start a project over because it wasn't version controlled and I coded myself into a corner. So
+ * I'm not going to let that happen.
+ *
+ * Valerie Mitchell is the name of the person I need to contact for the perceptorship opportunity. I think it would be valuable for me to go and meet individuals
+ * using Medtronic's current touch screen or otherwise devices to see what they have to say. I suspect that they will have a lot of advice to offer, because 
+ * these interfaces are far from perfect. Far far from perfect. But I'm going to work on that and hopefully make a big impact. I don't think I will be getting 
+ * much done today, though, because I'm already pretty tired. And I have these three rocking story ideas that I can't wait to flesh out.
+ *
+ * Okay, so the first one is one that Shaun helped me think of last night--well, actually, I think it would be fair to say that every single one of these was inspired in part by our conversations, but anyway. So the idea is that fifty years after the zombie apocalypse (also, I don't like Vim uses :set spell and :set nospell. I think it should be like :set spell on and :set spell off, but anyway)--also, Andy is so going to dig this idea, along with everyone else, it really is a cool idea--the level of technology in society has ....
+ *
+ * Okay, so another interruption. One nice thing about this format is I can just go and type code into any method and it doesn't really matter, so it is even
+ * easier to just be sneakily switching to looking like working from not working. This is defnitely a drawback to being intelligent, is that I know how to set
+ * things like this up and let myself not work. But this isn't going to be something we just sit here and do for 8 hours obviously, I don't think I could even
+ * sustain writing for eight hours. Maybe if I was really badly procrastinating on my actual work. But I shouldn't do that, because work is important. Dang. Vim
+ * is supremely useful. I can just jump around all over the place here by using marks. This is really cool. Man, I am really thirsty, better make a trip to the
+ * water cooler. Btw, I need to remember that I should write a report to Paul so that he knows what I've been doing today, because today is going to be a lot 
+ * shorter of a day than usual from the perspective of actually getting work here done. I mean, seriously I have been at that training thing all morning and that
+ * has been a serious drain on my time. Heh, hard at work or hardly working? Impossible to determine now. I could be doing one or the other and they would look
+ * indistinguishable.
+ *
+ * ... Losing my computer for a bit is going to quite a damper on my ability to play Crawl. I wonder if Kevin can come by early to pick me up so I could go look for
+ * my bag. But I doubt that is worth it. It'll probably show up in the found list pretty quick, judging by the items on there and the times posted. I mean, it
+ * was updated just two days ago, so that isn't bad at all. ...
+ *
+ * Right, so back to the zombie story. Technology has really been set back after a fifty years due to the loss of network effects, knowledgable people being
+ * killed off, inavailability of materials, etc. The ramifications of this are that technology has pretty much
+ *
+ * ... okay, the way that solarized now just has a menu is pretty killer. It has definitely made some progress...
+ *
+ * reverted to the medival ages. Of course, there is still a lot of random technology lying around. The premise of this story is illustrating Carl Sagan's saying that sufficiently advanced technology is indistinguishable from magic. 
+ *
+ * ... Man, as I'm typing my coworker is blatantly wasting time on his iPod, so I feel a bit better about doing this. Still makes me feel a bit bad about wasting company time, but everyone takes breaks and mine only take a few minutes inbetween huge bouts of actual programming, so maybe I shouldn't feel too bad. I don't know. ...
+ *
+ * ... the formatting of this thing is starting to get a bit inconsistent but it shouldn't matter too much, but whatever. ...
+ *
+ * So in this post-apocalyptic universe there are still certain individuals who retain their skills and abilities from the past when technology was abundant and
+ * people knew how to operate it. For example, "Liches" are old medical devices professionals who are still able to maintain some of the medical devices they
+ * used to work on. This gives them a longer life span (I might want to change the setting of the story from 50 years after, I'm not sure what would be the most
+ * suitable period yet... still thinking about that), but they are bound to their "phylactery" which is just a big box of their various pacemakers and whatnot
+ * hooked up to an improvised battery. But to most people, they are wizards who are able to extend their lifespan. Guns have become rarities (okay, so probably longer than 50 years for that to happen, considering that 10% of US residents are hunters, so that knowledge isn't going to go away real soon... but eventually
+ * they are going to run out of ammo and spare parts) and people who wield them are more or less a special class of people.
+ *
+ * ... another tangent. I feel that when I'm just writing off the cuff my writing style is incredibly verbose. Lots of waste words, lots of unnecessary phrases and long winded ways of explaining concepts. But that's what editing is for I guess, I would much prefer to just be able to write in a terse style (which I want
+ * to make my signature), but that's not going to happen until I cut out more verbal noise IN MY BRAIN...
+ *
+ * ... this is actually a scarily good look into the way my thought process is just easily distracted and bouncing about all the place on only semi related 
+ * threads. I guess I probably could just sit and write for eight hours. I don't think I would run out of material if I just kept running off whatever is on
+ * the top of my mind. I mean, during the day there are so many insights I have as it is that I think should be written down but I don't get around to. I have 
+ * to make sure I'm not forgetting any good ideas for neo-stoicism so that I don't forget them...
+ *
+ * Okay, so before I forget my two other story ideas I should just type them out right now so I can recall them.
+ * 1. Suburban full of chain mail and sword equipped vigilantes in a hostile suburban environment (this is obviously post-disaster). ... I do think it is kind
+ * of sad that people assume everyone will just go bonkers and look out for only themselves the moment the world enters duress. I have great hopes that is a 
+ * cataclysmic event were to strike the earth that humanity would band together and stand up to it. That's the hopeful message at the end of Watchmen... if you can call it that...
+* 2. A serial killer who dresses up in a bizarre costume and murders people near holloween inspires a movie franchise. The greedy film executives seek to cash
+* out as best they can, and next holloween release a feature film about the serial killer (who is generally thought of as an urban legend). The serial killer
+* gleefully uses the opportunity presented by the numerous movie goers dressing up as him to murder and wreck havoc.
+ *
+ * ... Now, where was I? One intrinsic disadvantage of my brain is that my only slightly above average (according to the WISC IV) working memory and executive
+ * function definitely have trouble keeping up with my hyperactive prefrontal lobe. Of course, working memory and executive function can be improved with
+ * practice, so there is a road forward...
+ *
+ * Right, in this zombie infested world a huge number of the survivors are... you guessed it--geeks who were mentally prepared for the zombie apocalypse due to
+ * the huge amounts of popular culture they absorbed. Finally their collections of slightly dull katanas, impractical-against-guns-but-practical-against-unarmed-combat suits of armour, collections of automatic and semi automatic weaponry, stockpiles of party foods like Mt. Dew have a purpose. The post zombie-population is full of nerds. As a result of that, fantasy nomenclature has taken over culture, especially now that it has became weirdly appropriate. Medical
+ * doctors are healers, medical technicians keeping themselves alive are liches, while medical technicians who maintain one solitary X-ray machine in a 
+ * fortified former hospital are regarded as oracles or seers. Those who retain wireless communication methods are thought of as limited telepaths who can
+ * provide great services. Unfortunately for humanity, the application of these old world skills lends such incredible advantages to the individuals who possess them that it disincentivizes the teaching of their methods. If a radio-operator were to reveal that _anyone_ could operate his radio, then his spot in
+ * the pecking order is threatened. Marketing himself as a guild member in the guild of telepaths (they send telegrams) he is ensuring his survival as a member
+ * of this vital and respected network that facilitates communication across the shattered states. 
+ *
+ * Electricity is enormously important, and its scarcity drives many aspects of society. Sources have access to severely limited renewable sources of energy such
+ * as wind, water, or solar energy, but they have to guard them fanatically. A windmill with a power converter is an extremely coveted resource, and giving 
+ * indications of vulnerability could give local warlords dangerous ideas. Transmuters have power generators that are gas operated (or maybe even nuclear in a really unsafe way); they can provide energy, but only if you have the requisite materials of course. And you have your looters and scavengers searching for any
+ * AA or car batteries that might have escaped the degradation of everything.
+ *
+ * There are almost no working cars remaining. Nearly everyone who owns one is a member of the Fraternity of Ferrymen. Most people simply ride horses, but motor powered forms of transportation mean a many fold decrease in the time it takes to travel. To the commoners it appears like the Engimporer can effectively teleport, as his airplane is one of the last and a closely guarded secret. Travel down interstate highways can be extremely fast; the highways are empty for miles (most cars were pushed away and looted at one point or another; wrecked cars were a convenient source of metal to be melted down into weaponry) it isn't uncommon for a Ferryman to drive you at 120 mph for your entire trip--he can serve more trips that way. The Assembly of Auto Assemblers works closely with the Fraternity of Ferrymen to maintain the last cars.
+ *
+ * For the large part knowledge trumps almost everything in this world. Even the greatest warlord doesn't dare to mess with guilds, because the utility they 
+ * provide is just too great. For the most part gold has returned as the currency of exchange. Coins are still accepted in many places, but they carry only
+ * a fraction of the value they did, now that they are only worth the intrinsic value of the metal in the coin. Paper money is used for all sorts of purposes
+ * but never for purchasing anything.
+ *
+ * People with firearms bill themselves out in various ways, and are never short on work. Pyromancers are simply people with flamethrowers, or access to explosives (a convincing fireball goes a long way to solidifying a reputation as a sorcerer). 
+ *
+ * Well, I got thirty minutes left today and I'm running out of energy here. I think the majority of food is provided by farms which are hand harvested. Unfortunately, farmers are already a dwindling group so in the future they are all gone. With nobody knowledgeable enough to operate the farm machinery food production has slipped back into the 18th century, and as a result food would be scarce if people weren't. The Engimporer (okay, that sounds a bit stupid, I'm definitely changing it. But Engineer-Emperor is a bit bland). Meh, I'm too tired to think about all this.
+ *
+ * Hot damn, this is actually an amount of writing. I mean, I haven't written this much in a while. Sweet. Nothing like having something you absolutely should
+ * be doing instead to motivate you to write--if you are me, that is.  I might start using this as a writing technique when I'm at home too. Switching
+ * between programming and coding is pretty therapeutic. 
+ *
+!!!*/
+
+= medtronic stuff =
+When: Wednesday, May 25, 2011 8:00 AM-11:00 AM (GMT-06:00) Central Time (US & Canada).
+Where: Mounds View Auditorium B
+
+Note: The GMT offset above does not reflect daylight saving time adjustments.
+
+*~*~*~*~*~*~*~*~*~*
+
+Plan now to attend this session of New Employee Orientation (NEO) Part 3 for all CVG (which includes CRDM & CV) employees. 
+
+As a reminder, NEO consists of four parts:
+Part 1: Welcome Session at WHQ (usually your first week)
+Part 2: NEO Online (to be completed in your first 30-days)
+Part 3: Know My Business
+Part 4: Know My Site
+
+This Part 3 session will include information about our business group - the Cardiac & Vascular Group (CVG). You will learn about your leaders, the locations and products of our businesses, common acronyms and more. You will have an opportunity to meet other new employees across CVG.
+
+If you are a Mounds View employee, you will receive an additional invitation to attend a one-hour session following this session to complete your Part 4: Know My Site training. All other sites will receive an additional invitation from someone at your site.
+
+This is a required part of NEO, so please make yourself available for this session. We look forward to seeing you there!
+
+ - Twin Cities CVG NEO owner, Kristi Olson 
+
+= To the Lighthouse Graphic Novel Adaptation =
+Panel 1.
+
+Mrs. Ramsay: But what have I done with my life? They had that--Paul Rayley and Minta Doyle--I, only this. He's frowning. What at? I don't know. I don't mind. I don't understand I had ever felt any emotion or affection for him.
+
+Panel 2.
+
+"William, sit by me."
+"Lily, over there."
+"Sit there please."
+
+Narrator: She had a sense of being past everything, through everything, out of everything, as she helped the soup, as if there was an eddy--there--and one could be in it, or one could be out of it, and she was out of it. And meanwhile she waited, passively, for some one to answer her, for something to happen. 
+
+Mrs. Ramsay: It's all come to an end.
+
+Mrs. Ramsay: But this is not a thing that one says.
+
+Panel 3.
+
+Narrator: "Raising her eyebrows at the discrepancy—that was what she was thinking, this was what she was doing—she felt, more and more strongly, outside that eddy; or as if a shade ad fallen, and, robbed of colour, she saw things truly. The room was very shabby. There was no beauty anywhere. She forebore to look at Mr. Tansley. Nothing seemed to have merged. They all sat separate. And the whole of the effort of merging and flowing and creating rested on her. Again she felt, as a fact without hostility, the sterility of men, for is she did not do it nobody would do it, and so, giving herself the little shake that one gives a watch that has stopped, the old familiar pulse began beating, as the watch begins ticking—one, two, three, one, two, three. And so on and so on, she repeated, listening to it, sheltering and fostering the still feeble pulse as one might guard a weak flame with a newspaper. 
+
+Panel 4.
+
+Narrator: Poor man! who had no wife, no children, and dined alone in lodgings except for tonight; and in pity for him, life being now strong enough to bear her on again, she began all this business, as a sailor not without weariness sees he wind fill his sail and yet hardly wants to be off again and thinks how, had the ship sunk, he would have whirled round and round and found rest on the floor of the sea.
+
+Mrs. Ramsay: "Did you find your letters? I told them to put them in the hall for you."
+
+Panel 5. (Insert after panel 3)
+
+Narrator: Lily Briscoe watched her drifting into that strange no-man's land where to follow people is impossible and yet their going inflicts such a chill on those who watch them that they always try at least to follow them with their eyes as one follows a fading ship until the sails have sunk beneath the horizon.
+
+Lily: How old she looks, how worn she looks, and how remote. What a change just now. 
+
+Narrator: Then when she turned to William Bankes, smiling, it was as if the ship had turned and the sun had struck its sails again.
+
+Lily: Why does she pity him? 
+
+Narrator: That was the impression she gave. Poor William Bankes, she seems to be saying, as if her own weariness had been partly pitying people, and the life in her, her resolve to live again, had been stirred by pity.
+
+Lily: It was not true.
+
+Narrator: It was one of those misjudgments of hers that seemed to be instinctive and to arise from some need of her own rather than of other people's. 
+
+Lily: He is not in the least pitiable. He has his work.
+
+Narrator: She remembered, all of a sudden as if she had found a treasure, that she had her work. In a flash she saw her picture.
+
+Lily: "Yes, I shall put the tree further in the middle; then I shall avoid that awkward space. That's what I shall do. That's what has been puzzling me.
+
+= Globalization to the Max =
+Globalization to the Max: Bringing a Digital Utopia to Earth
+
+Globalization is the trend of increased connectedness between people. So if globalization were carried out to its limits, what would result? Currently, technology has connected distant people to a new extent--but people can still be 'distant'. The limitations of our physical space chain us to a system of localism. However, if humanity were to collectively upload their consciences into a simulated universe where people are physically connected to people as people are digitally connected to people on the internet, then humans could achieve absolute globalism. In such a world we could be perfect cosmopolitans; no one is bound to a fate by the body they were born in, no one is limited by a poor birthplace. 
+Mind uploading is the process of scanning the physical state of a brain, and then simulating the operation of the brain on a computer model. This is already a possibility. In December 2006 IBM and the Swiss Federal Institute of Technology's Blue Brain project successfully simulated the neocortical column of a rat.[1] Henry Markram, the lead researcher at Blue Brain, said in 2009 that, "A detailed, functional artificial human brain can be built in the next 10 years."[2] Moore's Law, the famous prediction that processing power doubles every two years, predicts that we would have a computer with the processing power required to simulate a single human brain by 2025. Nick Bostrom calculated that simulating the brains of every person that has ever lived would require from 10^33 to 10^36
+Instead, I will explore how a digital universe should be constructed to benefit humanity, and what the philosophical implications are on human identity.
+In the simulated reality we create we must create the physics of the universe. These physics would likely be based off our own world's, but with some enhancements. Someone might object that living in a reality bound by arbitrary rules created by someone else is insulting. Perhaps, but since it is philosophically impossible to determine whether we are in a simulated reality right now, a simulation we create wouldn't be any worse. 
+The first enhancements we should consider relate to personal identity. In the digital universe each person can craft their own avatar. This would eliminate physical disabilities, eliminate the feeling of being trapped in the wrong body by transgendered people, and make the idea of race irrelevant (but not culture). People should be allowed to continuously change their appearances, because if someone only got to choose once they might come to regret their choice.
+This raises objections about personal identity. How would you stop someone from impersonating your friend? Well, one enhancement we can build into the universe is a unique ID assigned to each person. Anytime you are with someone you can view their ID, thus the idea of personal identity is perserved and enforced by the simulation.
+We have, in a way, eliminated the unjust effects of the natural lottery in regards to our bodies, but we haven't addressed how we will eliminate the limits of locality. My proposal is that the simulation creates miniature universes for each user, which are completely shaped by the user's desires. If you know someone's ID then you can request to teleport to their universe, and they can choose to allow you access. Through this mechanism there is no notion of physical distance between any two individuals, they are connected in this network. 
+In the simulated universe we should ensure that all users have access to the same computational power. If users were able to use their past physical wealth to purchase more computational power for themselves it would allow them to perceive subjective time slower. We ought to ensure that whenever the computational power of the simulated universe increases all users are provided equal shares of the increase.
+We might wonder at this junction what concept of wealth might exist in this universe. Since people are more or less dieties in their personal universes, there is little use for money. There isn't anything to purchase or experience that couldn't be created out of thin air. The only remaining concept of wealth is that of information. A user can only create something they have seen or imagined. Thus, a user could create a piece of artwork, and then barter with another user for, say, a car. One user enter's the other's universe with the artwork in tow. Now the user with the car can duplicate the artwork, and the first user an duplicate the car.
+Each person can feel free to pursue their passions to their fullest extent. They can then trade their expertise with others, and in this way everyone is enriched. It's the principle of specialization carried to its logical conclusion. Every person has unlimited time to develop an expertise. This would constitute a new era of human creativity. 
+Some might question whether existance has any meaning here. I would argue that because of the artistic and creative freedom given to people that our lives would be more meaningful than ever. In the past people have strived for immortality. The people we consider most successful, such a William Shakespeare, are those who legacy lived on beyond them. Some portion of their original thought lived on in the sea of information. Being uploaded would guarantee your immortality. Not only would your conscience be immortal, but so would all of your ideas, which would live on in the simulation.
+What of people who refuse to be uploaded? It's all the better that there are. There must remain people on the outside to maintain the facilities required to run the simulation. These people would be richly rewarded and afforded all material comforts. These physical resources are of no use to those inside, so they may as well be distributed among those few remaining on the outside. The children of the outsiders would be allowed inside if they so choose, thus providing new generations of minds inside the universe, to prevent it from becoming stagnant with aging minds.
+The people on the outside can also act a regulatory mechanism to ensure that the simulation is never compromised by malicious individuals. Decisions to modify the simulation should be made by a joint council of outsiders and insiders to ensure the modification is beneficial to all. 
+What if the outsiders decided to unpower the simulation? It would save them immense resources and further enrich themselves. I think the simulation would provide immense value to the outsiders that they wouldn't want to jeopardize. For example, an immense amount of creative individuals, such as filmmakers and writers, will be working inside the simulation. This would probably be the outsider's only source of new film and novels, because the outsiders have to work in fields such as nuclear engineering. Many people with creative instincts would want to join the simulation to carry out their work, rather than toil toward a practical field and live richly in the physical world. 
+Does humanity have any greater purpose after devising a way for everyone to, essentially, create a heaven of their own choosing? I would say yes. Humanity still has a desire to spread its legacy ever farther. We would love to expose our ideas to as many minds as possible. After our ideas have spread to every human, we still wish to expand. To that end, humanity could live in the simulation for millions of years while traveling through space, until we encounter another form of intelligent life with which to share our culture, history, and experience. With time, alien minds could be integrated into the simulation. This would be cosmopolitan in the greatest sense of the word, we would be citizens of the cosmos sharing our ideas with citizens from other planets.
+what purpose does humanity have anymore? to find other life and share our rich culture
+
+Sources cited:
+
+1. "Project Milestones". Blue Brain. Retrieved 2011-04-28. http://bluebrain.epfl.ch/Jahia/site/bluebrain/op/edit/pid/19085
+2. "Artificial brain '10 years away'". BBC News. Retrieved 2011-04-28. http://news.bbc.co.uk/2/hi/8164060.stm
+3. "Are You Living in a Computer Simulation?" Nick Bostrom. July 2002. Retrieved 2011-04-28. http://www.simulation-argument.com/simulation.html
+
+= essay I reviewed for Kevin? =
+Writer: Melate Tibebe
+Reviewer: Kevin Zhou
+
+II.
+
+1. The thesis takes a stand on the meaning of the story, because it interprets the purpose of Thomas' character in the story. It provides specific detail in the theme statement about story telling and the context of the story. It identifies the literary technique of personification as key.
+
+2. I thought the lead was a 5. Perhaps the historical context could be mentioned more specifically.
+
+3.
+Specific literary techniques used in the story are accurately identified. Evidence is provided, and each point is connected to the thesis.
+The three main points are: 1) Thomas, like storytelling, is on trial 2) the gagging of Native American culture is also represented through Thomas 3) Thomas' imprisonment represents the oppression of Native Americans. They were easily identified, and appropriate and convincing. 
+The paragraphs have topic sentences, which all introduce the main point of the paragraph. Some of them lack a connection to the thesis. The descriptions of Thomas' three stories is transitioned to chronologically, but it isn't explained how these relate to the thesis.
+Yes, adequate context was provided for all quotations. Specific examples and quotations were a strong part of this essay, and all the picks were appropriate for strengthening the thesis. The examples and quotations weren't all fully explained, as I said earlier, it isn't clear how the descriptions of the three stories directly relates to the thesis.
+Quotations are well integrated into the flow of text.
+There is a good balance of evidence and interpretation.
+The descriptions of the three stories strays from the topic. It should be better explained why those illustrate how Thomas is a personification.
+The essay seemed focused and unified until the later portion, where the topic seemed to stray from the thesis.
+The essay includes appropriate in-text citations. Page numbers are included.
+
+4. The conclusion was a strength of this paper, it synthesized and revisited the thesis, and made the topic seem broader and more interesting.
+I understand that Thomas was a representation of his people, and through story telling was able to pass forward the tradition, even though he was jailed.
+
+III.
+1. The main idea is that Thomas is a personification of Native Americans. This was a fairly convincing idea, and I think it adds a good layer of meaning to the story, so it is good literary analysis.
+2. I was drawn in by the strong thesis.
+3. The two most important revisions are to bring the last half of the paper in line with the first half of it. The second half strays from the thesis, and seem to be arguing different points. This revision is vital, because otherwise the paper will not be as focused. The next revision could be the structuring of the paragraphs. They are very close to being in chronological order, according to the story, but are slightly out of order. If that were changed, the logical flow of the essay might be clearer.
+
+Writer: Shyam Iyer
+Reviewer: Kevin Zhou
+
+II.
+
+1. The thesis takes a stance on the meaning of the story, because it interprets the way Thomas was written. It provides the specific detail that Thomas is portrayed through his story telling. Metaphors and symbolism are identified as the literary techniques used.
+2. I would give this lead a 5, it goes into good detail. The introductoy sentence could be shortened to make it a more attractive hook with a stronger statement.
+3. Yes, specific literary techniques used are identified, explained, and interpreted. There is plenty of evidence from the story, this was a strong point of the paper, and it was all well connected to the thesis. 
+The three main points are: 1) Thomas is able to control the mood of the audience by telling of the ponies' demise, 2) Thomas could extend the story metaphorically to make it about war, and further affect emotions, 3) Thomas was able to manipulate the feelings of the judge, even if it wasn't to his advantage. They were easily identified, and appropriate and convincing. 
+Paragraphs have topic sentences. On page 2 the transition into the paragraph about war is unclear. The purpose of this paragraph is explained later on in the paragraph, but should be explained leading up to it.
+Adequate background information was provided.
+The use of evidence in this paper was very strong, the choices of quotations were good. The quotations and examples are also given enough room to be fully explained. The quotations were well mixed into the paper, and read smoothly.
+Because of the excellent amount of evidence in this paper, I would say that it strikes a good balance.
+Nothing strays off topic. However, the focus and unity is less than it could be, perhaps because jumping from the section about the audience to the section about the judge is abrupt, and due to the problem I mentioned above with paragraph flow. This paper just needs better topic sentences and transitions.
+The in-text citations were fine with page numbers and everything.
+4.
+It seems to primarily repeat the thesis. In my opinion, the conclusion needs the most work, and should bring this paper to a stronger close.
+I understand that Thomas was able to captivate audiences with his storytelling.
+
+III.
+
+1. The main focus is on how the author depicts Thomas' ability to sway people with words. Perhaps it didn't give me a deeper understanding of the story itself, but it provided insight into the way the author used literary techniques to convey an idea, so it was good literary analysis.
+2. The aspect that drew me into the essay was how well it cited the text to form the arguments.
+3. The most important revisions are to fix the conclusion, and to improve the flow between paragaphs. Fixing the conclusion is important because I felt disappointed when I reached the conclusion, the rest of the paper is much stronger. Fixing the flow between paragraphs will help a lot to make the individually strong main points into a much stronger focused core of arguments.
+
+= no subject =
+http://elegy.soup.io/
+
+= music =
+Ever Fallen in Love? By Nouvelle Vague
+Diferente by Gotan Project
+
+= audrey hepburn quote =
+For Beautiful Eyes
+Look for the good in others,
+For Beautiful Lips 
+Speak only words of kindness,
+And for Poise
+Walk with knowledge that
+You are never alone.
+-Audrey Hepburn
+
+= no subject =
+Please save the following confirmation number for future reference: 1165474
+
+= no subject =
+ 4RMVVM-KCN6-24M69K-TVRD-DVXW77
+
+= Norwegian skit =
+Michael Jackson
+Jerry Garcia
+Tupac Shakur
+Elvis Presley
+John Lennon
+
+Michael Jackson: Glaubst du, er wird zu entkommen? (Do you think he will get away?)
+Elvis Presley: Wer wird? (Who will?)
+Tupac Shakur: Mutterficken Kurt Cobain, wer ist. (Motherfucking Kurt Cobain, is who.)
+John Lennon: Das Kind hat Bälle, das ich will gebe. (That kid has balls, I'll give him that.)
+Jerry Garcia: Er hat keine Chance. Sahst du die Art von Scheiße, die die Plattenfirma hat? Sie haben Hubschrauber, was Raketen schießen. (He doesn't have a chance. Have you seen the kind of the shit the record company has? They have helicopters that shoot rockets.)
+Elvis Presley: Warum du das interessierst?
+
+= no subject =
+http://ffffound.com/image/8697d471edb16593fb5084348ee792e73b9c6209
+http://www.hvdfonts.com/opal.php
+
+
