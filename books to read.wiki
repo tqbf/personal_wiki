@@ -28,3 +28,5 @@ http://www.squeakland.org/resources/books/readingList.jsp
 
 Pale Fire by Nobokov
 Gravity's Rainbow by Pynchion
+Future Shock by Alvin Toffler
+The Mythical Man Month
