@@ -39,7 +39,7 @@
 
 == TODO ==
 - IDEAS LIST for TODAY's WRITING
-- the world is magickal (just a matter of perspective: subways are portals, cellphones and computers are black scrying mirrors, computer code is the language of spellcasting)
+- [X] the world is magickal (just a matter of perspective: subways are portals, cellphones and computers are black scrying mirrors, computer code is the language of spellcasting)
 - Magick spells for
 -       destroying your enemies (ie loving them)
 -       having adventures
