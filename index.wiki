@@ -1,43 +1,8 @@
 = Matt's Vim Wiki Index =
-
-* [[misc]]
-* [[spells]]
-* [[writing]]
-* [[life]]
-* [[magic]]
-* [[physics]]
-* [[math]]
-* [[books]]
-* [[coding]]
-* [[meditation]]
-* [[gaming]]
-* [[2013]]
-* [[vim]]
-* [[projects]]
-* [[wisdom]]
-* [[misc ideas]]
-* [[ericksonian hypnosis]]
-* [[text editing project]]
-* [[zencephalon]]
-* [[maya_project]]
-* [[human improvement]]
-* [[aliza]]
-* [[ninja style]]
-* [[pandora]]
-* [[outsourcing]]
-* [[sailthru org chart]]
-* [[spirit animals]]
-* [[writwithwit]]
-* [[email drafts notes]]
-
-== daily tasks == 
-- practice taijutsu
-- exercise
-- meditate
-
-[[searider critique]]
-
 == TODO ==
+- [ ] setup octopress
+- [ ] setup spaced repetition software for german
+-
 - IDEAS LIST for TODAY's WRITING
 - Metaphysical picture frames for your life, which is a work of art.
 -       the materialist border
@@ -74,6 +39,39 @@
 
 = Long term = 
 - go to law school
+
+* [[caroline]]
+* [[misc]]
+* [[spells]]
+* [[writing]]
+* [[life]]
+* [[magic]]
+* [[physics]]
+* [[math]]
+* [[books]]
+* [[coding]]
+* [[meditation]]
+* [[gaming]]
+* [[2013]]
+* [[vim]]
+* [[projects]]
+* [[wisdom]]
+* [[misc ideas]]
+* [[ericksonian hypnosis]]
+* [[text editing project]]
+* [[zencephalon]]
+* [[maya_project]]
+* [[human improvement]]
+* [[aliza]]
+* [[ninja style]]
+* [[pandora]]
+* [[outsourcing]]
+* [[sailthru org chart]]
+* [[spirit animals]]
+* [[writwithwit]]
+* [[email drafts notes]]
+*[[searider critique]]
+
 
 [[movies to see]]
 [[books to read]]
