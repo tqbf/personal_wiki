@@ -2,6 +2,7 @@
 == TODO ==
 - [ ] setup octopress
 - [ ] setup spaced repetition software for german
+- [X] write [[Gerard and Jen]]'s story
 -
 - IDEAS LIST for TODAY's WRITING
 - Metaphysical picture frames for your life, which is a work of art.
@@ -40,6 +41,7 @@
 = Long term = 
 - go to law school
 
+* [[order of the chameleon]]
 * [[caroline]]
 * [[misc]]
 * [[spells]]
