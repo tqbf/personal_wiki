@@ -1,5 +1,8 @@
 = Matt's Vim Wiki Index =
 == TODO ==
+- reply to jacob about why sailthru is awesome
+- finish testing the code for fucks sake
+- reply to Calvin's mom regarding website contracting
 - [ ] setup octopress
 - [ ] setup spaced repetition software for german
 - [X] write [[Gerard and Jen]]'s story
