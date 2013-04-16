@@ -1,25 +1,13 @@
 = Matt's Vim Wiki Index =
 == TODO ==
-- reply to jacob about why sailthru is awesome
-- finish testing the code for fucks sake
-- reply to Calvin's mom regarding website contracting
+- [X] reply to jacob about why sailthru is awesome
+- [ ] finish testing the code for fucks sake
+- [X] reply to Calvin's mom regarding website contracting
 - [ ] setup octopress
 - [ ] setup spaced repetition software for german
-- [X] write [[Gerard and Jen]]'s story
+- [ ] write [[Gerard and Jen]]'s story
 -
 - IDEAS LIST for TODAY's WRITING
-- Metaphysical picture frames for your life, which is a work of art.
--       the materialist border
--       the dream border
--       the coma border
--       the cosmic insane asylum border
--       the simulation game border
--       the reincarnation border
--       the reincarnation without karma border
--       the cosmic party border
--       the cosmic theater border
--               comedy, tragedy, romantic comedy, etc?
--       the programmer god border
 - Spirit animals, and what we can learn from them
 - Polytheism
 -       I love athena and hermes
