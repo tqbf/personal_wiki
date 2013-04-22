@@ -6,3 +6,10 @@ We will certainly be using the github API.
 
 Software as a Service model, but opensource? Basically just count on people's
 good will to help me maintain my living.
+
+
+https://github.com/libgit2/rugged
+http://unixpapa.com/js/key.html
+
+
+Using jekyll is not a bad idea, though, maybe?
