@@ -6,6 +6,10 @@
 - [ ] setup octopress
 - [ ] setup spaced repetition software for german
 - [ ] write [[Gerard and Jen]]'s story
+- [ ] make jen's play list
+- [ ] clean room
+- [ ] finish real time stats
+- [ ] lookup sailthru contract
 -
 - IDEAS LIST for TODAY's WRITING
 - Spirit animals, and what we can learn from them
