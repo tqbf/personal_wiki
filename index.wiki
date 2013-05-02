@@ -1,14 +1,9 @@
 = Matt's Vim Wiki Index =
 == TODO ==
-- [X] reply to jacob about why sailthru is awesome
-- [ ] finish testing the code for fucks sake
-- [X] reply to Calvin's mom regarding website contracting
 - [ ] setup octopress
 - [ ] setup spaced repetition software for german
 - [ ] write [[Gerard and Jen]]'s story
 - [ ] make jen's play list
-- [ ] clean room
-- [ ] finish real time stats
 - [ ] lookup sailthru contract
 -
 - IDEAS LIST for TODAY's WRITING
@@ -22,7 +17,6 @@
 - create some spells
 
 = Medium term = 
-- [ ] Go to chatbot conference in Philly on March 23rd
 - Make over
 - Get dental work done
 - Visit doctor
@@ -38,6 +32,7 @@
 - go to law school
 
 * [[order of the chameleon]]
+* [[cool places to work]]
 * [[caroline]]
 * [[misc]]
 * [[spells]]
